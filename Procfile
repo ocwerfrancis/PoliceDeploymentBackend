@@ -1,0 +1,1 @@
+web: gunicorn vippu_backend.wsgi
